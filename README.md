@@ -21,4 +21,4 @@ Day 20 Ripple Counter\
 Day 21 Barrel Shifter\
 Day 22 Binary to Gray Converter\
 Day 23 Divider\
-Day 24 Square Root\
+Day 24 Square Root
