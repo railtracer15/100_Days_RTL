@@ -1,4 +1,4 @@
-Day 1 Basic Gates
+Day 1 Basic Gates\
 Day 2 Half Adder and Subtractor
 Day 3 Full Adder and Subtractor
 Day 4 Multiplexer 8 x 1
